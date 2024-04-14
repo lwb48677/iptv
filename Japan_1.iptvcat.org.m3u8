@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="Undefined",ABC (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/turWday.png" group-title="Undefined",AT-X (720p)
+https://neetball.net/live/neet3.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="Undefined",Animax (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AF;AU;IN;JP;MN;NZ;PK" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="News;PAKISTAN",BBC News Asia Pacific (720p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/huXFL3A.png" group-title="General",BS Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/aDdwjjc.png" group-title="General",BS Fuji TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/D8lhZCI.png" group-title="General",BS Nippon TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/h20eGKq.png" group-title="General",BS TBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="General",BS TV Tokyo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/Ft6wEdO.png" group-title="News",CNNj (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Undefined",Cartoon Network Japan (400p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/zfvyspc.png" group-title="General",Channel Ginga (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/VSq7b5E.jpg" group-title="Kids",Disney Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/0ALvy3B.png" group-title="Movies",Eisei Gekijo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/Azdf7m6.png" group-title="Family",Family Gekijo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/qX6nNOF.png" group-title="Undefined",Fishing Vision (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Undefined",Fuji TV (540p)
+https://fujitv4.mov3.co/hls/fujitv.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Undefined",Fuji TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/j95aeSA.png" group-title="Entertainment",Fuji TV NEXT (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",Gaki no Tsukai (English Subs) (720p)
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="Sport",Gaora Sports (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/01Jsa2Z.png" group-title="Sport",Golf Network (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/iNkKh7w.png" group-title="Undefined",Home Drama Channel (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sport",J Sports 1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Sport",J Sports 2 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="Sport",J Sports 3 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="Sport",J Sports 4 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/lcwDgKU.png" group-title="Undefined",Jidaigeki Senmon (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/WMNg5De.png" group-title="Undefined",Kansai TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/7VcFGkx.png" group-title="Music",Kayo Pops (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/pb94kIk.png" group-title="Kids",Kids Station (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/APBty36.png" group-title="Undefined",LaLa TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/RfrkGrd.png" group-title="Undefined",MBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/mmpjpu2.png" group-title="Undefined",Mondo TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3OTLJpi.png" group-title="Movies",Movie Plus (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="Music",Music Japan TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/t0uZcSR.png" group-title="General",NHK BS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="Undefined",NHK BSP4K (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/WxtftlO.png" group-title="Education",NHK E (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK G (Osaka) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK G (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/PzwtC9K.png" group-title="Movies",Nihon Eiga Senmon (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/U0ZFkZw.png" group-title="Undefined",Nippon TV (540p) [Not 24/7]
+https://ntv4.mov3.co/hls/ntv.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Undefined",Nippon TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/CfvqUup.png" group-title="Undefined",Nittele G Plus (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="Shop",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Shop",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/h3KtKJ5.png" group-title="Undefined",Sky A (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/PjjkT9P.png" group-title="Music",Space Shower TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/PSVgw99.png" group-title="Movies",Star 1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/QOriZy5.png" group-title="Movies",Star 2 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/Z1x8ecY.png" group-title="Movies",Star 3 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/0qtXIRM.png" group-title="Entertainment",Sun TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/Al1A8t2.png" group-title="Undefined",TAKARAZUKA SKY STAGE (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="Undefined",TBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Undefined",TV Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/rUmrruq.png" group-title="Undefined",TV Osaka (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/tDyxk0Y.png" group-title="Undefined",TV Tokyo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/JBePECx.png" group-title="Undefined",Tabi Channel (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/MRSlSvm.png" group-title="Undefined",Toei Channel (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/igia8OX.png" group-title="Undefined",Tokyo MX1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="Movies",WOWOW Cinema (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/jPAYT5F.png" group-title="Undefined",WOWOW Live (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="Undefined",WOWOW Prime (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/ONbuWvo.png" group-title="Undefined",YTV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AF;AU;KH;IN;JP;MN;PK;PH;SG;TH" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="General;PAKISTAN",РТР Планета Азия
+https://player.smotrim.ru/iframe/stream/live_id/63254?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物1
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物2
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物3
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物4
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8?checkedby:iptvcat.org
